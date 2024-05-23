@@ -127,6 +127,7 @@
 
 * [FAQ](help-and-faq/faq/README.md)
   * [How do I contact support?](help-and-faq/faq/support.md)
+  * [How do I enter block selection?](help-and-faq/faq/how-do-i-enter-block-selection.md)
   * [How do I report bugs?](help-and-faq/faq/report-bugs.md)
   * [How do I hard refresh my browser?](help-and-faq/faq/hard-refresh.md)
   * [How do I solve connectivity issues?](help-and-faq/faq/connectivity-issues.md)
