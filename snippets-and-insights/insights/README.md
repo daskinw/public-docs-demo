@@ -22,7 +22,7 @@ It will notify you of contradictory information — where two pages contain diff
 
 For example, if there are inconsistencies between two pages in a published space, you’ll get a notification in this section — and you’ll get the option to incorporate or change the inconsistent information.
 
-<figure><img src="../.gitbook/assets/content-insights.png" alt=""><figcaption><p>In the <strong>Content audit</strong> tab you can quickly see pages with contradictory or duplicated information, and fix the errors.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/content-insights.png" alt=""><figcaption><p>In the <strong>Content audit</strong> tab you can quickly see pages with contradictory or duplicated information, and fix the errors.</p></figcaption></figure>
 
 {% hint style="info" %}
 **Alpha notice:** While in the alpha period, content audits are available on all pricing plans. This will change in the future, and you'll be informed before the feature reaches General Availability.
@@ -34,7 +34,7 @@ If you notice anything relevant, make sure to [share your feedback](https://surv
 
 ### Content scores
 
-Content scores give you a high-level representation of how your users rate your content. After enabling [page rating](../published-documentation/customization/space-customization.md#page-rating) in the **Customize** menu for a space, you can see each page’s average feedback rating here.
+Content scores give you a high-level representation of how your users rate your content. After enabling [page rating](../../published-documentation/customization/space-customization.md#page-rating) in the **Customize** menu for a space, you can see each page’s average feedback rating here.
 
 Use the drop down menu on the right of the search bar to select the space you want to view. You can then hover over the average rating to see how many positive, neutral and negative ratings a specific page has.
 
@@ -55,7 +55,7 @@ We cap the score at 500 (and -500) to avoid scores for commonly-rated pages reac
 We only display data for published spaces. If your space is not published and does not have page ratings enabled, you won’t see any insights into this space.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/content-scores.png" alt=""><figcaption><p>In the <strong>Content scores</strong> tab, you can see which pages in a publish space have the highest and lowest ratings from your users.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/content-scores.png" alt=""><figcaption><p>In the <strong>Content scores</strong> tab, you can see which pages in a publish space have the highest and lowest ratings from your users.</p></figcaption></figure>
 
 ### Search analytics
 
@@ -65,7 +65,7 @@ Switch to the **Search analytics** tab to see what keywords are performing the b
 
 The information here can be helpful for informing your content architecture, making certain parts of your documentation easier to find without search, or adding additional content to existing pages based on what your visitors are searching for.
 
-<figure><img src="../.gitbook/assets/content-audit.png" alt=""><figcaption><p>The <strong>Search analytics</strong> tab will show you what people are searching for most, and how many results they can find for those searches.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/content-audit.png" alt=""><figcaption><p>The <strong>Search analytics</strong> tab will show you what people are searching for most, and how many results they can find for those searches.</p></figcaption></figure>
 
 If you want to use or analyze this data further outside of GitBook, click **Download CSV** to download a `.csv` file to your device.
 
@@ -82,7 +82,7 @@ We only display data for published spaces. If your space is not published, you w
 
 ### Can I integrate GitBook with other analytics tools?
 
-Outside of content insights, GitBook offers different [integrations](broken-reference/) for you to get more in-depth information about the behavior of visitors on your site. Head to our [integrations page](https://app.gitbook.com/integrations) to see which integrations you can use.
+Outside of content insights, GitBook offers different [integrations](../broken-reference/) for you to get more in-depth information about the behavior of visitors on your site. Head to our [integrations page](https://app.gitbook.com/integrations) to see which integrations you can use.
 
 ### What happened to Insights panel in individual spaces?
 

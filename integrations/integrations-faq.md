@@ -26,6 +26,6 @@ You can [read more about this change here](https://www.gitbook.com/blog/gitbook-
 
 ## What happened to GitBook’s CLI tool?
 
-GitBook’s CLI tool is not currently supported in the latest version of the GitBook platform. Most of the features previously supported by the CLI are now supported by our [GitHub and GitLab Sync integrations](git-sync/).
+GitBook’s CLI tool is not currently supported in the latest version of the GitBook platform. Most of the features previously supported by the CLI are now supported by our [GitHub and GitLab Sync integrations](../snippets-and-insights/git-sync/).
 
 Content hosted on the [legacy.gitbook.com](https://legacy.gitbook.com/) will continue working until further notice.

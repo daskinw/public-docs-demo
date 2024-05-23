@@ -49,22 +49,22 @@
 
 * [Overview](snippets-and-insights/overview.md)
 * [Snippets (beta)](snippets-and-insights/snippets-beta.md)
-* [Insights](snippets-and-insights/insights.md)
+* [Insights](snippets-and-insights/insights/README.md)
+  * [Install and manage integrations](snippets-and-insights/insights/install-an-integration.md)
+* [GitHub & GitLab Sync](snippets-and-insights/git-sync/README.md)
+  * [Enabling GitHub Sync](snippets-and-insights/git-sync/enabling-github-sync.md)
+  * [Enabling GitLab Sync](snippets-and-insights/git-sync/enabling-gitlab-sync.md)
+  * [Content configuration](snippets-and-insights/git-sync/content-configuration.md)
+  * [GitHub pull request preview](snippets-and-insights/git-sync/github-pull-request-preview.md)
+  * [Commit messages & Autolink](snippets-and-insights/git-sync/commits.md)
+  * [Monorepos](snippets-and-insights/git-sync/monorepos.md)
+  * [Troubleshooting](snippets-and-insights/git-sync/troubleshooting.md)
 
 ## Integrations
 
 * [Overview](integrations/overview.md)
-* [Install and manage integrations](integrations/install-an-integration.md)
 * [Slack (beta)](integrations/slack.md)
 * [Visual Studio Code (alpha)](integrations/visual-studio-code.md)
-* [GitHub & GitLab Sync](integrations/git-sync/README.md)
-  * [Enabling GitHub Sync](integrations/git-sync/enabling-github-sync.md)
-  * [Enabling GitLab Sync](integrations/git-sync/enabling-gitlab-sync.md)
-  * [Content configuration](integrations/git-sync/content-configuration.md)
-  * [GitHub pull request preview](integrations/git-sync/github-pull-request-preview.md)
-  * [Commit messages & Autolink](integrations/git-sync/commits.md)
-  * [Monorepos](integrations/git-sync/monorepos.md)
-  * [Troubleshooting](integrations/git-sync/troubleshooting.md)
 * [Third-party Integrations](integrations/third-party-integrations.md)
 * [Integrations FAQ](integrations/integrations-faq.md)
 

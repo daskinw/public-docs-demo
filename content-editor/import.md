@@ -11,7 +11,7 @@ There are two methods for importing content into GitBook:
 
 ### Using our import tool
 
-You can migrate and unify existing documentation in GitBook using the import tool. You have the option to import single or multiple pages — although some limits apply, which we’ll explain below.
+You can migrate and unify existing documentation in GitBook using the import tool. You have the option to import single or multiple pages — although some limits apply, which we’ll explain below.
 
 {% hint style="info" %}
 **Permissions**\
@@ -64,12 +64,12 @@ GitBook currently has the following limits for imported content:
 
 ### Importing via Git Sync
 
-If you want to import large amounts of content, you can use our [Git Sync](../integrations/git-sync/) feature, which has no limitation on the amount of content that can be imported.&#x20;
+If you want to import large amounts of content, you can use our [Git Sync](../snippets-and-insights/git-sync/) feature, which has no limitation on the amount of content that can be imported.
 
-To import using Git Sync, you’ll first need to add your content to a GitHub or GitLab repository — or folder if you're using a monorepo setup — as Markdown files. If your current tool does not support Markdown export, various online tools can assist with conversion from other formats, such as PDF, HTML, etc.
+To import using Git Sync, you’ll first need to add your content to a GitHub or GitLab repository — or folder if you're using a monorepo setup — as Markdown files. If your current tool does not support Markdown export, various online tools can assist with conversion from other formats, such as PDF, HTML, etc.
 
-Once you’ve set up your Git repository, simply [set up a Git Sync integration](../integrations/git-sync/) in your GitBook organization. Be sure to select the direction **GitHub -> GitBook** when choosing the initial sync direction.&#x20;
+Once you’ve set up your Git repository, simply [set up a Git Sync integration](../snippets-and-insights/git-sync/) in your GitBook organization. Be sure to select the direction **GitHub -> GitBook** when choosing the initial sync direction.
 
 {% hint style="info" %}
-If you’re having trouble with the import process using either method above, please [get in touch with our support team](mailto:support@gitbook.com) — they’d be happy to help.
+If you’re having trouble with the import process using either method above, please [get in touch with our support team](mailto:support@gitbook.com) — they’d be happy to help.
 {% endhint %}

@@ -12,11 +12,11 @@ In the revision history of a space, you can see a list of all the actions that c
 
 * When someone made [live edits](editor/live-edits.md) to the space.
 * When someone merged a [change request](editor/change-requests.md).
-* When someone performed a [Git Sync](../integrations/git-sync/) operation.
+* When someone performed a [Git Sync](../snippets-and-insights/git-sync/) operation.
 
 ### Viewing historical versions of content
 
-To view past versions of your content and see the changes that were made, click the **Revision history** <picture><source srcset="../.gitbook/assets/Revision history dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Revision history light.png" alt="" data-size="line"></picture> button in the right-hand corner of the space [sub-navigation](editor/navigation.md#space-sub-navigation).&#x20;
+To view past versions of your content and see the changes that were made, click the **Revision history** <picture><source srcset="../.gitbook/assets/Revision history dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Revision history light.png" alt="" data-size="line"></picture> button in the right-hand corner of the space [sub-navigation](editor/navigation.md#space-sub-navigation).
 
 {% hint style="info" %}
 **Permissions:** Only users with **admin**, **creator**, **reviewer** and **editor** permissions can view the revision history for a space.
@@ -28,11 +28,11 @@ Click on any item in the list to see how your content looked at the point this c
 
 ### Show changes
 
-When you are viewing an old version of your content, you can choose to highlight the differences between the old and current content — similar to [diff view in a change request](editor/change-requests.md#diff-mode).&#x20;
+When you are viewing an old version of your content, you can choose to highlight the differences between the old and current content — similar to [diff view in a change request](editor/change-requests.md#diff-mode).
 
 To enable or disable this, use the **Show changes** toggle at the bottom of the revision history side panel.
 
-With show changes enabled, content that has changed will be highlighted by an icon on the left of its content block.&#x20;
+With show changes enabled, content that has changed will be highlighted by an icon on the left of its content block.
 
 ### Rolling back to a previous version
 

@@ -72,7 +72,7 @@ For organizations on our Enterprise plan, you can configure your SSO with any [S
 
 <summary>Integrations</summary>
 
-You can check which [integrations](../integrations/overview.md) are installed for your organization and [install new integrations](../integrations/install-an-integration.md) from this page.
+You can check which [integrations](../integrations/overview.md) are installed for your organization and [install new integrations](../snippets-and-insights/insights/install-an-integration.md) from this page.
 
 </details>
 

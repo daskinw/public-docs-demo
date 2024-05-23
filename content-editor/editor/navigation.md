@@ -25,7 +25,7 @@ The sidebar allows you to see and overview of your GitBook organization at a gla
 * **Snippets**\
   With [snippets](../../snippets-and-insights/snippets-beta.md), you can capture complex information from third-party tools. GitBook AI extracts that valuable knowledge within, and documents it for you in seconds.
 * **Insights**\
-  [Insights](../../snippets-and-insights/insights.md) allow you to have a birds-eye view of all of the content you have in your organization.
+  [Insights](../../snippets-and-insights/insights/) allow you to have a birds-eye view of all of the content you have in your organization.
 * **Documentation**\
   The documentation section is where you’ll find the [collections](content-structure/what-is-a-collection.md) and [spaces](content-structure/what-is-a-space.md) you create when adding more content. Head to our [content structure](content-structure/) section to find out more.
 * **Settings**\
@@ -53,7 +53,7 @@ If you want to give more focus to the content of your page, you can temporarily 
 
 <figure><img src="../../.gitbook/assets/header.png" alt=""><figcaption><p>The space header sits at the top of the editor, and offers options that apply to the whole space.</p></figcaption></figure>
 
-The space header contains information about the space you’re currently viewing. It lets you do things like [publish and share](../../published-documentation/overview.md) your space, configure [GitHub or GitLab sync](../../integrations/git-sync/), and more.
+The space header contains information about the space you’re currently viewing. It lets you do things like [publish and share](../../published-documentation/overview.md) your space, configure [GitHub or GitLab sync](../../snippets-and-insights/git-sync/), and more.
 
 {% hint style="info" %}
 The space header & sub-navigation may look different depending on the mode you’re currently in. See [change requests](change-requests.md) for more info.
@@ -70,7 +70,7 @@ The space header appears at the top of GitBook when viewing a space. It includes
 * **Collaborators**\
   The avatar of anyone else who’s currently viewing a page in your space, with colored circles to show their cursor color. Click an avatar to jump to the page they’re currently viewing.
 * **Git Sync configuration**\
-  The [GitHub and GitLab Sync](../../integrations/git-sync/) configuration for your space.
+  The [GitHub and GitLab Sync](../../snippets-and-insights/git-sync/) configuration for your space.
 * **The Share menu**\
   Allows you to publish and share your space. You can also invite others to [collaborate](broken-reference/) through this menu.
 * **The edit button**\

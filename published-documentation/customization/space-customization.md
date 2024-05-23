@@ -185,7 +185,7 @@ PDF Export is only available to spaces owned by an organization subscribed to a 
 
 Choose whether or not visitors to your published content can leave a rating on each page to let you know how they feel about it. They’ll be able to choose a sad, neutral, or happy face.
 
-You can review the results of this survey if you open the [**Insights**](../../snippets-and-insights/insights.md) page and select the [**Content scores**](../../snippets-and-insights/insights.md#content-scores) tab.
+You can review the results of this survey if you open the [**Insights**](../../snippets-and-insights/insights/) page and select the [**Content scores**](../../snippets-and-insights/insights/#content-scores) tab.
 
 </details>
 

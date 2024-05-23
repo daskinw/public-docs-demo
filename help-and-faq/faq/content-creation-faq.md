@@ -17,7 +17,7 @@ GitBook currently has the following limits for imported content:
 
 ## **How can I export my content?**
 
-We recommend exporting your content in Markdown format by enabling [GitHub or GitLab sync](../../integrations/git-sync/). You can also export your content via PDF but you may hit some limits in case of larger spaces.
+We recommend exporting your content in Markdown format by enabling [GitHub or GitLab sync](../../snippets-and-insights/git-sync/). You can also export your content via PDF but you may hit some limits in case of larger spaces.
 
 ## Can I move a page from one space to another?
 
