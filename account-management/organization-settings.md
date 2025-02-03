@@ -22,7 +22,7 @@ You can update the logo and the name of the organization.
 
 **GitBook AI features**
 
-[GitBook’s AI](../creating-content/searching-your-content/gitbook-ai.md)-powered search lets your team members ask questions about your content in natural language. You can also enable GitBook AI for published content in the space [customization ](../publishing-documentation/customization.md)panel.
+[GitBook’s AI](../creating-content/searching-your-content/gitbook-ai.md)-powered search lets your team members ask questions about your content in natural language. You can also enable GitBook AI for published content in the space [customization ](../publishing-documentation/custom-domain/customization.md)panel.
 
 **Publishing**
 
@@ -31,9 +31,9 @@ Each published GitBook space that lives within your organization’s library wil
 1. `[something].gitbook.com` (this is the GitBook subdomain) **or** your own custom subdomain
 2. `/[spaceURL]` (this is set within the settings for the space itself)
 
-You can update the GitBook subdomain here, as well as the default content, which is the space that visitors will see if they navigate to your GitBook subdomain directly.&#x20;
+You can update the GitBook subdomain here, as well as the default content, which is the space that visitors will see if they navigate to your GitBook subdomain directly.
 
-&#x20;Note: GitBook subdomains are a legacy feature, and you may not have access to change your subdomain at the time of reading this doc. Please refer to [custom domain setup](../publishing-documentation/custom-domain.md) and [site sections](../publishing-documentation/site-structure/site-sections.md) to learn more about structuring your docs with custom URLs.
+Note: GitBook subdomains are a legacy feature, and you may not have access to change your subdomain at the time of reading this doc. Please refer to [custom domain setup](../publishing-documentation/custom-domain/) and [site sections](../publishing-documentation/site-structure/site-sections.md) to learn more about structuring your docs with custom URLs.
 
 **Actions**
 

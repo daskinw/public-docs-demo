@@ -12,13 +12,13 @@ When engaging with GitBook AI, you have the ability to ask questions or elaborat
 
 #### For published content
 
-You can enable GitBook AI for any published space or collection in that space’s or collection’s [customization settings](../../publishing-documentation/customization.md).&#x20;
+You can enable GitBook AI for any published space or collection in that space’s or collection’s [customization settings](../../publishing-documentation/custom-domain/customization.md).
 
 Click the **Customize** button, then open to the **Configure** tab and toggle the **Enable** **GitBook AI semantic search** setting on.
 
 #### For internal content
 
-You can also enable GitBook AI for your organization’s internal content, allowing you to ask questions and get semantic answers about your internal knowledge base.&#x20;
+You can also enable GitBook AI for your organization’s internal content, allowing you to ask questions and get semantic answers about your internal knowledge base.
 
 Head to the **Organization settings** page and, in the **General** tab, toggle the **Enable GitBook AI semantic search** setting on.
 
@@ -39,7 +39,7 @@ As well as a summarized answer, below you’ll also see an expandable section th
 {% hint style="warning" %}
 GitBook AI does not work across individual published spaces on different [docs sites](../../publishing-documentation/publish-a-docs-site/).
 
-Multi-space search is _only_ available when viewing published spaces that live as [site sections](../../publishing-documentation/site-structure/site-sections.md) within the same site.&#x20;
+Multi-space search is _only_ available when viewing published spaces that live as [site sections](../../publishing-documentation/site-structure/site-sections.md) within the same site.
 {% endhint %}
 
 #### For internal documentation

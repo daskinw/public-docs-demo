@@ -9,13 +9,13 @@ description: Set a custom domain for your docs sites
 This feature is available on [Premium and Ultimate site plans](https://www.gitbook.com/pricing).
 {% endhint %}
 
-By default, your sites are accessible on a `[subdomain].gitbook.io` domain.&#x20;
+By default, your sites are accessible on a `[subdomain].gitbook.io` domain.
 
 You can customize this by setting a custom domain, meaning your audience can access your documentation on a chosen domain.
 
 {% stepper %}
 {% step %}
-### Choose a subdomain
+#### Choose a subdomain
 
 When choosing a subdomain, you can either use `www` or a custom one. Some commonly used subdomains are:
 
@@ -25,7 +25,7 @@ When choosing a subdomain, you can either use `www` or a custom one. Some common
 {% endstep %}
 
 {% step %}
-### Initiate the custom domain setup
+#### Initiate the custom domain setup
 
 Navigate to the site for which you want to set the custom domain. Click **Settings,** then choose **Set up a custom domain.**
 
@@ -33,7 +33,7 @@ From here, you'll see a window where you can enter the custom domain you chose i
 {% endstep %}
 
 {% step %}
-### Configure the DNS
+#### Configure the DNS
 
 At this stage, you'll see a window with three fields: **Type, Name, Target.**
 
@@ -45,7 +45,7 @@ After adding the record, it might take some time for the changes to propagate. W
 {% endstep %}
 
 {% step %}
-### Finalize your setup
+#### Finalize your setup
 
 After adding the record and it being propagated, it's time to go live! GitBook will verify the domain, the record you added and will automatically configure the SSL certificate for your domain.
 
@@ -61,7 +61,7 @@ Setting up a custom domain can occasionally run into obstacles. Below, we outlin
 
 <summary>SSL error: an error occurred when provisioning your SSL certificate.</summary>
 
-When a custom domain is set for your organization, collection, or space, we set up an SSL certificate on our end so that your documentation will load securely, over HTTPS. \
+When a custom domain is set for your organization, collection, or space, we set up an SSL certificate on our end so that your documentation will load securely, over HTTPS.\
 \
 This happens automatically when you set your custom domain — you do not need to purchase or configure an SSL certificate.
 
@@ -69,11 +69,11 @@ Occasionally errors occur at this stage, usually when the CNAME record for the c
 
 In these cases, we can recommend the following:
 
-1. Check that your CNAME record is set up correctly. \
-   Please review our page about configuring DNS to help you with this. \
-   If the CNAME record is incorrect, we won't be able to configure the SSL certificate and complete the custom domain set-up.&#x20;
-2. Allow _**at least one hour**_ between configuring the CNAME record and finalizing the custom domain setup.&#x20;
-3. Verify if the CNAME has propagated. You can try using a third-party DNS lookup tool, such as [WhatsMyDNS](https://www.whatsmydns.net/), to find out what the servers believe to be correct for your correct CNAME record.&#x20;
+1. Check that your CNAME record is set up correctly.\
+   Please review our page about configuring DNS to help you with this.\
+   If the CNAME record is incorrect, we won't be able to configure the SSL certificate and complete the custom domain set-up.
+2. Allow _**at least one hour**_ between configuring the CNAME record and finalizing the custom domain setup.
+3. Verify if the CNAME has propagated. You can try using a third-party DNS lookup tool, such as [WhatsMyDNS](https://www.whatsmydns.net/), to find out what the servers believe to be correct for your correct CNAME record.
 4. If you are using Cloudflare, please confirm that you don’t have the record proxied [as explained here](https://developers.cloudflare.com/fundamentals/setup/manage-domains/pause-cloudflare/#disable-proxy-on-dns-records).
 
 </details>

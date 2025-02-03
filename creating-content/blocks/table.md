@@ -28,10 +28,18 @@ Depending on the data you want to display, you can set table columns can have di
 * **Text:** A standard text column, with standard formatting support.
 * **Number:** A number column, with or without floating digits.
 * **Checkbox:** A checkbox on each line that can be checked or unchecked.
-* **Select:** You can select data from a list of options that you can define by opening the columns’s **Options menu** <picture><source srcset="../../.gitbook/assets/options_menu_icon_dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/options_menu_icon_light.svg" alt=""></picture> and choosing **Manage options**. This can be single-choice or multiple-choice.
+*   **Select:** You can select data from a list of options that you can define by opening the columns’s **Options menu**&#x20;
+
+    <picture><source srcset="../../.gitbook/assets/options_menu_icon_dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/options_menu_icon_light.svg" alt=""></picture>
+
+    &#x20;and choosing **Manage options**. This can be single-choice or multiple-choice.
 * **Users:** You can add the name and avatar of a member of your organization. This can be single-choice or multiple-choice.
 * **Files:** You can reference a file in the space. You can upload new files when populating cells in the column.
-* **Rating:** A star rating. You can configure the maximum rating by opening the column’s **Options menu** <picture><source srcset="../../.gitbook/assets/options_menu_icon_dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/options_menu_icon_light.svg" alt=""></picture> and choosing **Max**.
+*   **Rating:** A star rating. You can configure the maximum rating by opening the column’s **Options menu**&#x20;
+
+    <picture><source srcset="../../.gitbook/assets/options_menu_icon_dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/options_menu_icon_light.svg" alt=""></picture>
+
+    &#x20;and choosing **Max**.
 
 Use the column’s **Option menu** <picture><source srcset="../../.gitbook/assets/options_menu_icon_dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/options_menu_icon_light.svg" alt=""></picture> to change a column’s type. When you change a column type, you’ll see a prompt asking you to confirm the change, as column data could be deleted or broken by this action.
 
@@ -45,7 +53,7 @@ Tables that are wider than the editor container will be horizontally scrollable.
 
 ### Column options
 
-To reorder columns, click and drag on the **Options** <picture><source srcset="../../.gitbook/assets/options_menu_icon_dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/options_menu_icon_light.svg" alt=""></picture> button in the column you want to move.&#x20;
+To reorder columns, click and drag on the **Options** <picture><source srcset="../../.gitbook/assets/options_menu_icon_dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/options_menu_icon_light.svg" alt=""></picture> button in the column you want to move.
 
 Inside the Options menu <picture><source srcset="../../.gitbook/assets/options_menu_icon_dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/options_menu_icon_light.svg" alt=""></picture> you can also switch automatic sizing on and off, add a new column to the right, hide the column, or delete the column.
 

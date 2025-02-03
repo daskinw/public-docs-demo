@@ -9,6 +9,8 @@ description: Get up and running in GitBook and publish your first docs site in m
 
 You’ll need a GitBook account to start publishing documentation. If you don’t already have an account, you can sign up for free [here](https://app.gitbook.com/join).
 
+{% include "../.gitbook/includes/reusable-content-lets-you-s....md" %}
+
 ### Create a docs site
 
 When you first sign up, you’ll have a chance to create a docs site from the docs site wizard. You can launch the wizard again to create a new site at any point by clicking the **+** button next to the **Docs sites** header in the sidebar.
@@ -31,11 +33,11 @@ Check out these resources if you’d like to learn more about the editing experi
 
 Not only can you edit the content of your site, you can also customize many settings related to the look and feel of your site when it’s published.
 
-You can change things like the [logo, colors & fonts](../publishing-documentation/customization.md), add more structure through [site sections](../publishing-documentation/site-structure/site-sections.md) and [variants](../publishing-documentation/site-structure/variants.md), or update your [site’s visibility](../publishing-documentation/site-settings.md#audience) settings.
+You can change things like the [logo, colors & fonts](../publishing-documentation/custom-domain/customization.md), add more structure through [site sections](../publishing-documentation/site-structure/site-sections.md) and [variants](../publishing-documentation/site-structure/variants.md), or update your [site’s visibility](../publishing-documentation/site-settings.md#audience) settings.
 
 You can read more about customizing your docs in the resources below:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Customize your site</strong></td><td>Customize the look and feel of your site.</td><td><a href="../.gitbook/assets/card_customize.svg">card_customize.svg</a></td><td><a href="../publishing-documentation/customization.md">customization.md</a></td></tr><tr><td><strong>Add a custom domain</strong></td><td>Set up a custom domain for your site.</td><td><a href="../.gitbook/assets/card_custom_domain.svg">card_custom_domain.svg</a></td><td><a href="../publishing-documentation/custom-domain.md">custom-domain.md</a></td></tr><tr><td><strong>Update your site's settings</strong></td><td>Update settings related to your published site.</td><td><a href="../.gitbook/assets/card_settings.svg">card_settings.svg</a></td><td><a href="../publishing-documentation/site-settings.md">site-settings.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Customize your site</strong></td><td>Customize the look and feel of your site.</td><td><a href="../.gitbook/assets/card_customize.svg">card_customize.svg</a></td><td><a href="../publishing-documentation/custom-domain/customization.md">customization.md</a></td></tr><tr><td><strong>Add a custom domain</strong></td><td>Set up a custom domain for your site.</td><td><a href="../.gitbook/assets/card_custom_domain.svg">card_custom_domain.svg</a></td><td><a href="../publishing-documentation/custom-domain/">custom-domain</a></td></tr><tr><td><strong>Update your site's settings</strong></td><td>Update settings related to your published site.</td><td><a href="../.gitbook/assets/card_settings.svg">card_settings.svg</a></td><td><a href="../publishing-documentation/site-settings.md">site-settings.md</a></td></tr></tbody></table>
 
 ### Publish your documentation
 

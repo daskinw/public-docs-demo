@@ -27,7 +27,7 @@ Change the name of your site, if you don't have a custom logo this is the name t
 
 Here, you can upload a custom social preview image for your site. This will set the site’s `og:image` to your uploaded image, and it’ll show when the site’s link is shared to any platform or product that supports OpenGraph images, such as Slack or X.
 
-If you don’t add a social preview, GitBook will automatically generate one using your theme color, page title and description.&#x20;
+If you don’t add a social preview, GitBook will automatically generate one using your theme color, page title and description.
 
 If your site has multiple [site sections](site-structure/site-sections.md), you can use the drop-down menu in this modal to add a custom social preview image for each one, or for your entire site.
 
@@ -45,7 +45,7 @@ Unpublish your site, but keep its settings and customizations. You can publish y
 
 <summary>Delete site</summary>
 
-Unpublish and remove your site from the **Docs site** section in the GitBook app.&#x20;
+Unpublish and remove your site from the **Docs site** section in the GitBook app.
 
 **Note:** Deleting a site is a permanent action and cannot be undone. Any settings and customizations will be lost, but your content will remain in its [space](../creating-content/content-structure/space.md).
 
@@ -67,7 +67,7 @@ Choose who sees your published content. See [publish-a-docs-site](publish-a-docs
 
 <summary>Custom domain</summary>
 
-Configure a custom domain to unify your site with your own branding. See [custom-domain.md](custom-domain.md "mention") for more info.
+Configure a custom domain to unify your site with your own branding. See [custom-domain](custom-domain/ "mention") for more info.
 
 </details>
 

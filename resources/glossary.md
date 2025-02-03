@@ -20,9 +20,9 @@ icon: book-open
 
 ### C
 
-**change request:** Change requests are similar to pull requests in GitHub. They let you work on multiple branches of the same space in parallel — while keeping the original version intact. In GitBook you can create a new change request and make edits to a space, then submit your changes for review. Those changes won’t appear in the primary space until someone merges that change request.&#x20;
+**change request:** Change requests are similar to pull requests in GitHub. They let you work on multiple branches of the same space in parallel — while keeping the original version intact. In GitBook you can create a new change request and make edits to a space, then submit your changes for review. Those changes won’t appear in the primary space until someone merges that change request.
 
-**collection:** A group of spaces. You can think of collections like a folder for your spaces.&#x20;
+**collection:** A group of spaces. You can think of collections like a folder for your spaces.
 
 **context menu:** The menu that appears above highlighted text in the editor. You can use it to format your text in a number of ways, including bold, italic, and code, or add links or annotations to your copy.
 
@@ -30,17 +30,17 @@ icon: book-open
 
 **cover:** An image that sits at the top of a page. You can add a cover to any page, and set it to span the full width of your page, or just the width of your content as a hero image. See [#page-covers](../creating-content/content-structure/page.md#page-covers "mention") to find out more.
 
-**custom domain:** A customized URL that you can set up for a docs site, e.g. docs.yourcompany.com. You can configure it in the **Settings** panel for your docs site. See [custom-domain.md](../publishing-documentation/custom-domain.md "mention") to find out more.
+**custom domain:** A customized URL that you can set up for a docs site, e.g. docs.yourcompany.com. You can configure it in the **Settings** panel for your docs site. See [custom-domain](../publishing-documentation/custom-domain/ "mention") to find out more.
 
 ### D
 
 **diff view:** A toggle that highlight which pages and blocks have been added, edited or deleted within a change request. You can toggle it on using the **View changes** button in the [space header](glossary.md#s).
 
-**discussions:** When you reply to a comment you create a discussion — effectively a threaded conversation within the Comments side panel.&#x20;
+**discussions:** When you reply to a comment you create a discussion — effectively a threaded conversation within the Comments side panel.
 
 **docs site:** A published site containing the information written in the GitBook editor. Docs sites are accessible to users without a GitBook account.
 
-**domain:** The base of a docs site’s URL. You can customize this from the **Domains** section in your site’s **Settings** page. [Setting a custom domain](../publishing-documentation/custom-domain.md) will override this setting.
+**domain:** The base of a docs site’s URL. You can customize this from the **Domains** section in your site’s **Settings** page. [Setting a custom domain](../publishing-documentation/custom-domain/) will override this setting.
 
 ### E
 
@@ -68,13 +68,13 @@ icon: book-open
 
 ### L
 
-**live edits:** The ability to make changes to a live version of a document, without creating a change request. This is the default option for unpublished GitBook spaces.&#x20;
+**live edits:** The ability to make changes to a live version of a document, without creating a change request. This is the default option for unpublished GitBook spaces.
 
-**locked live edits:** When you lock live edits, people will need to create a change request in order to make changes to a document in GitBook. This helps avoid mistakes and maintain good working practices for important documents. You can lock live edits for any space — and it is automatically enabled for published spaces.&#x20;
+**locked live edits:** When you lock live edits, people will need to create a change request in order to make changes to a document in GitBook. This helps avoid mistakes and maintain good working practices for important documents. You can lock live edits for any space — and it is automatically enabled for published spaces.
 
 ### **M**
 
-**member management:** Tools that allow you to view and edit the members in your organization, including their admin rights and the spaces they have access to.&#x20;
+**member management:** Tools that allow you to view and edit the members in your organization, including their admin rights and the spaces they have access to.
 
 ### O
 
@@ -82,9 +82,9 @@ icon: book-open
 
 ### P
 
-**page:** A place where you can add or write your content using blocks. Pages live inside a [space](glossary.md#s), and you can give every page a title and an optional icon or emoji.&#x20;
+**page:** A place where you can add or write your content using blocks. Pages live inside a [space](glossary.md#s), and you can give every page a title and an optional icon or emoji.
 
-**page group:** A way to group pages together. You can set a name and an optional icon or emoji for each page group.&#x20;
+**page group:** A way to group pages together. You can set a name and an optional icon or emoji for each page group.
 
 **page options:** A collection of options that you can set for your pages using the **Page options** side panel. You can select a layout preset, or control individual options such as hiding the page title and description, table of contents or page outline. Find out more in [#page-options](../creating-content/content-structure/page.md#page-options "mention").
 
@@ -100,13 +100,13 @@ icon: book-open
 
 **slug:** The customizable final part of a URL, usually after the domain and a /. In a docs site, this is inferred from the title of the site, and comes after the domain. You can customize this further if needed from the **Domains** section of **Site settings**.
 
-**space:** An area where you can organize related content. It may contain a single page or multiple pages, sub-pages and page groups.&#x20;
+**space:** An area where you can organize related content. It may contain a single page or multiple pages, sub-pages and page groups.
 
 **space header:** The menu bar below the space overview when you view a space. It contains the space title and icon, as well as buttons to view comments, broken links and change requests, as well as the **Edit in change request** button.
 
-**space overview:** The menu bar at the top of the GitBook app when you view a space. It contains the breadcrumbs for the space you’re in, as well as the [Git Sync](glossary.md#g) configuration button, the Share button, and the [Actions button](glossary.md#a) for the space. If other people are working in the space at the same time as you, you’ll also see their avatars here.&#x20;
+**space overview:** The menu bar at the top of the GitBook app when you view a space. It contains the breadcrumbs for the space you’re in, as well as the [Git Sync](glossary.md#g) configuration button, the Share button, and the [Actions button](glossary.md#a) for the space. If other people are working in the space at the same time as you, you’ll also see their avatars here.
 
-**subpage:** A page that’s nested within another page, typically containing related content.&#x20;
+**subpage:** A page that’s nested within another page, typically containing related content.
 
 ### T
 
@@ -114,7 +114,7 @@ icon: book-open
 
 ### V
 
-**variant**: A [variant](../publishing-documentation/site-structure/variants.md) is a different version of your documentation — for example, a translated version of your docs, or docs for a different version number of your product. Site readers can move between different variants using a drop-down menu on the published site.
+**variant**: A [variant](../publishing-documentation/site-structure/variants.md) is a different version of your documentation — for example, a translated version of your docs, or docs for a different version number of your product. Site readers can move between different variants using a drop-down menu on the published site.
 
 **version:** A saved snapshot of your space at a specific time. You can access previous versions of your space in the **Version history** menu.
 
